@@ -1,0 +1,3 @@
+[submodule "GitPractice2"]
+	path = GitPractice2
+	url = git@github.com:togashi/GitPractice2.git
